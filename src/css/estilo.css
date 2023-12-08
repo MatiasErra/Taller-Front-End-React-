@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+  }
+.card{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+
+  display:  inline-flex;
+  position: center;
+}
+.col{
+  display: inline;
+  align-items: center;
+}
+
+.col-lg-3{
+  display:  inline-flex;
+
+}
+#root{
+  display:  inline;
+}
+
+.card-img-top{
+height: 286px;
+width: 286px;
+}
+#tarjeta{
+  position: center;
+}
+.input{
+  display: inline;
+}
+@media (max-width: 988px){
+
+.inputBuscar{
+  width: 100% !important;
+  display: inline;
+  align-items: center;
+}
+
+.App{
+  padding: 40px 5px;
+}
+
+
+.containerInput{
+padding-bottom: 15px;
+}
+
+}
+
+.inputBuscar{
+  width: 50% !important;
+  display: inline;
+  align-items: center;
+}
+.form-control{
+    display: inline;
+}

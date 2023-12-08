@@ -1,0 +1,47 @@
+
+
+  h2{
+      text-align: center;
+  }
+  .inputBuscar{
+    width: 50% !important;
+    display: inline;
+    align-items: center;
+  }
+  .form-control{
+      display: inline;
+  }
+  table{
+    min-width: 500px;
+  }
+  
+  .containerInput{
+    align-items:center ;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+  }
+  
+  .input{
+      display: inline;
+  }
+  @media (max-width: 988px){
+  
+    .inputBuscar{
+      width: 100% !important;
+      display: inline;
+      align-items: center;
+    }
+  
+    .App{
+      padding: 40px 5px;
+    }
+  
+  
+  .containerInput{
+    padding-bottom: 15px;
+  }
+  
+  }

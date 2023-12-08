@@ -1,0 +1,19 @@
+.containerPrincipal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:  translate(-50%, -50%);
+    border: 1px solid blue;
+    padding: 40px;
+    background-color: white;
+}
+.containerPrincipal{
+    text-align: center;
+    margin: 0px;
+}
+h2{
+    margin-top: 0px;
+}
+.btn{
+    margin: 5px;
+}
